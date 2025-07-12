@@ -1,13 +1,18 @@
 {
   "name": "char-roopantar",
   "version": "1.0.2",
-  "author": "Prashant Kumar <dev.prashant.kumaar@gmail.com> (https://github.com/prashantkumarpro)",
+  "author": "Prashant Kumar",
   "type": "commonjs",
   "main": "transformers.cjs",
   "module": "transformers.mjs",
   "exports": {
     "import": "./src/transformers/transformers.mjs",
     "require": "./src/transformers/transformers.cjs"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prashantkumarpro/char-roopantar"
   },
   "keywords": [
     "text",
