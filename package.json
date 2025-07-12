@@ -1,0 +1,21 @@
+{
+  "name": "char-roopantar",
+  "version": "1.0.2",
+  "author": "Prashant Kumar <dev.prashant.kumaar@gmail.com> (https://github.com/prashantkumarpro)",
+  "type": "commonjs",
+  "main": "transformers.cjs",
+  "module": "transformers.mjs",
+  "exports": {
+    "import": "./src/transformers/transformers.mjs",
+    "require": "./src/transformers/transformers.cjs"
+  },
+  "keywords": [
+    "text",
+    "transform",
+    "text-transform",
+    "case-conversion",
+    "string-utilities",
+    "string-transform",
+    "char-roopantar"
+  ]
+}
